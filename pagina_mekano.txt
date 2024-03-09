@@ -1,3 +1,8 @@
-Página para acceder al proyecto "Mekano"
+Proyecto "Mekano"
 
+Sistema gráfico en línea diseñado para ayudar a los usuarios a mejorar su destreza en el uso del teclado, a través de ejercicios simples, para fomentar el posicionamiento correcto de las manos en el teclado y así generar una mayor productividad laboral.
+
+Herramientas: HTML, CSS, Javascript, PHP, Laragon y SQL
+
+Página para acceder al sistema
 https://mekanomx.000webhostapp.com/principal/menu-principal.html
